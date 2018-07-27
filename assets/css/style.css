@@ -1,17 +1,6 @@
 body {
 
 }
-/* Main container Divs */
-.container {
-  margin-top: 40px;
-  max-width: 960px;
-  position: fixed;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: aquamarine;
-  border: 2px grey;
-  position: fixed;
-}
 
 .wrapper {
   background-color: beige;
