@@ -1,0 +1,88 @@
+body {
+
+}
+/* Main container Divs */
+.container {
+  margin-top: 40px;
+  max-width: 960px;
+  position: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aquamarine;
+  border: 2px grey;
+  position: fixed;
+}
+
+.wrapper {
+  background-color: beige;
+  max-height: 100px;
+  border-bottom: gray(63, 63, 63) solid 2px;
+}
+
+.heading {
+  position: relative;
+  left: 200px;
+  max-width: 250px;
+  max-height: 80px;
+  height: 80px;
+  vertical-align: middle;
+  line-height: 80px;
+  text-align: center;
+  background-color: brown;
+  color: bisque;
+}
+
+.profile-image {
+  height: 200px;
+  widows: 300px;
+  left: 800px;
+}
+
+/* Main Navigation Divs */
+.navigation {
+  position: relative;
+  height: inherit;
+  justify-content: right;
+  display: inline-block;
+}
+
+.nav-links {
+  position: relative;
+  float: right;
+  vertical-align: middle;
+  line-height: 80px;
+  text-align: center;
+  right: 40px;
+}
+
+/* Navigation Links */
+.about {
+  display: inline-block;
+  padding: 5px;
+}
+
+.portfolio {
+  display: inline-block;
+  padding: 5px;
+}
+
+.contact {
+  display: inline-block;
+  padding: 5px;
+}
+
+.about-me {
+  text-align: left;
+  padding-left: 10px;
+  color: blueviolet;
+}
+
+.p {
+  padding: 10px;
+}
+
+.image {
+  height: 160px;
+  width: 200px;
+  float: left;
+}
